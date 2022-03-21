@@ -8,7 +8,7 @@ Created on Mon Mar 14 22:47:27 2022
 
 print("Program Start")
 
-X = 25
+X = 60
 
 if X > 25 and X < 50:
 	print("X antara 25 dan 50")

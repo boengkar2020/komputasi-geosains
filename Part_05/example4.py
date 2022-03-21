@@ -6,7 +6,7 @@ Created on Mon Mar 14 22:50:55 2022
 @author: sukarno
 """
 
-X = 100
+X = 99
 
 Result = X**2 if X%2 == 0 else X
 

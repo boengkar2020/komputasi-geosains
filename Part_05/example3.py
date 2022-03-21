@@ -8,7 +8,7 @@ Created on Mon Mar 14 22:48:58 2022
 
 print("Program Start")
 
-N_Akhir = 25
+N_Akhir = 79
 
 if N_Akhir > 90:
 	print("A")

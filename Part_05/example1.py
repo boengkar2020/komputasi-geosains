@@ -8,11 +8,11 @@ Created on Mon Mar 14 21:38:39 2022
 
 print("Program Start")
 
-X = 25
+X = 40
 
 if X > 25:
-	print("Lebih besar dari X")
+	print("Lebih besar dari 25")
 else:
-	print("Lebih kecil dari X")
+	print("Lebih kecil dari 25")
 
 print("Program Stop")
