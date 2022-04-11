@@ -20,7 +20,7 @@ def nrange (min, max, delta = 1):
 
 
 def f(x) :
-    return x
+    return x**2 - 4
 
 if __name__ == '__main__':
     

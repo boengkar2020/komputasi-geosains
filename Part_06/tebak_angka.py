@@ -8,12 +8,12 @@ Created on Mon Mar 21 21:12:23 2022
 
 import random
 
-print("---- Program tebak angka ----")
+print("---- Program tebak angka ---- \n")
 
 Angka = random.randint(0,1000)
 
 while True:
-	ch = input("Masukan angka dari 0 – 1000")
+	ch = input("Masukan angka dari 0 – 1000 :")
 
 	if not ch.isalnum():
 		print("Yang anda masukan bukan angka")
