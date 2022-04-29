@@ -10,6 +10,8 @@ Created on Mon Apr 11 14:43:35 2022
 
 D = { 'nama' : 'Yayan', 'umur' : 19, 'nilai' : [60,84,65]}
 
+print(D)
+
 D ['nama'] = 'Yayan Saputra'
 
 print(D)

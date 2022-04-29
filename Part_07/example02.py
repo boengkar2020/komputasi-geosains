@@ -9,10 +9,10 @@ Created on Mon Apr 11 13:47:24 2022
 L = [1,3,5,6,7]
 
 #get data dari list
-data = L[0]
+data = L[3]
 
-print(data)
+print(L[1])
 
-data = L[-1]
+data = L[-2]
 
 print(data)

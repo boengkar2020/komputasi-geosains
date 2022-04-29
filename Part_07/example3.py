@@ -10,6 +10,8 @@ Created on Mon Apr 11 14:25:10 2022
 
 L = [1,3,5,6,7]
 
+print(L)
+
 L[2] = 10
 
 print(L)

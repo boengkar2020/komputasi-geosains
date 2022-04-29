@@ -10,7 +10,9 @@ Created on Mon Apr 11 14:28:06 2022
 
 L = [5,10,3,23,89,100]
 
-L.remove(23)
+print(L)
+
+L.remove(100)
 
 print(L)
 

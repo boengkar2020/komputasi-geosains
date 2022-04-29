@@ -10,6 +10,6 @@ D = { 'nama' : 'Yayan', 'umur' : 19, 'nilai' : [60,84,65]}
 
 #ambil value pada dictionary 
 
-data = D['nama']
+data = D['nilai']
 
-print(D)
+print(data)

@@ -10,6 +10,8 @@ Created on Mon Apr 11 14:29:14 2022
 
 L = [5,10,3,23,89,100]
 
+print(L)
+
 data = L.pop()
 
 print(data)
