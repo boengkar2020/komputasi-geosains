@@ -21,4 +21,4 @@ if __name__ == '__main__':
     print(test1)
     print("\n")
     print(test2)
-    
+    print("\n")
